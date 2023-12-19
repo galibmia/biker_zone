@@ -1,0 +1,35 @@
+.bz-bg-color{
+    background-color: #264653;
+}
+
+.bz-btn-back{
+    background-color: #e76f51;
+    color: #fff;
+}
+.bz-btn-back:hover{
+    border: 1px solid #e76f51;
+    color: #fff;
+}
+.bz-text-color{
+    color: #e76f51;
+}
+.bz-hr{
+    border: 2px solid #f73100;
+}
+.bz-btn-back-1{
+    border: 1px solid #e76f51;
+    color: #000000;
+    
+}
+.bz-btn-back-1:hover{
+    background-color: #e76f51;
+    color: #fff;
+}
+.bold{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+.regular{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
